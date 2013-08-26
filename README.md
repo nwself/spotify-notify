@@ -5,7 +5,7 @@ Notifications for Spotify now playing.
 
 This is a modification of a script that can be found in various places but originally (or so it seems) here:
 
-[](https://code.google.com/p/spotify-notify/)
+[https://code.google.com/p/spotify-notify/](https://code.google.com/p/spotify-notify/)
 
 This might be a little less friendly than that one but it has two improvements:
 
